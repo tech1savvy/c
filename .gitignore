@@ -1,0 +1,6 @@
+*.out
+
+.replit
+replit.nix
+
+/.ccls-cache
